@@ -20,3 +20,8 @@ Ada dua model yang digunakan, yaitu YOLOv4 dan YOLOv5. Untuk YOLOv5, saya menggu
 ### Alur Pengujian
 Pengujian diawali dengan pengolahan data, yaitu citra dan labelnya, agar bisa sesuai dengan format YOLO. Setelah itu, dijalankanlah training pada model. Ketika training, berbagai statistik akan tercatat secara otomatis. Setelah itu, terdapat evaluasi untuk melihat performa ketika training dan untuk menguji model menggunakan data test. Pada bagian akhir, terdapat pembandingan beberapa statistik dari beberapa pengujian yang telah dilakukan. 
 
+### WandB
+Untuk melihat hasil pengujian secara lebih lanjut, berikut link project dalam WandB:
+https://wandb.ai/pandegaaz/siim-covid19-detect-1 (pengujian awal 1)
+https://wandb.ai/pandegaaz/siim-covid19-detect-2 (pengujian awal 2)
+https://wandb.ai/pandegaaz/siim-covid19-detect-3 (pengujian awal 3)
