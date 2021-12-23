@@ -22,6 +22,6 @@ Pengujian diawali dengan pengolahan data, yaitu citra dan labelnya, agar bisa se
 
 ### WandB
 Untuk melihat hasil pengujian secara lebih lanjut, berikut link project dalam WandB:
-https://wandb.ai/pandegaaz/siim-covid19-detect-1 (pengujian awal 1)
-https://wandb.ai/pandegaaz/siim-covid19-detect-2 (pengujian awal 2)
-https://wandb.ai/pandegaaz/siim-covid19-detect-3 (pengujian awal 3)
+- https://wandb.ai/pandegaaz/siim-covid19-detect-1 (pengujian awal 1)
+- https://wandb.ai/pandegaaz/siim-covid19-detect-2 (pengujian awal 2)
+- https://wandb.ai/pandegaaz/siim-covid19-detect-3 (pengujian awal 3)
